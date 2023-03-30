@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+  
+}
+
+nav a {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(74, 128, 128);
+}
+
+img {
+  object-position: 50% 100%;
+}
+section#featured-property{
+
+}
+
+
+figcaption {
+  text-align: center;
+  display: block;
+
+}
+
+section#details {
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+
+
